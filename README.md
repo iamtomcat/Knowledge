@@ -1,6 +1,6 @@
 # Knowledge
 
-This is a repository for putting as much stuff as I know into hopefully an understandle package.
+This is a repository for putting as much stuff as I know into hopefully an understandable package.
 
 This idea came I found at [Nikita Voloboev](https://wiki.nikitavoloboev.xyz).
 
