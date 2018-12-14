@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 
+* Auth0
+  * [Setup](auth0/setup.md)
 * [GraphQL](graphql/graphql.md)
   * [Useful Libraries](graphql/useful-libraries.md)
 * [iOS](ios/getting-started.md)
